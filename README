@@ -1,0 +1,29 @@
+****************************************************************
+
+*
+* Final project for Intro to Computer Science class at
+* Thomas Jefferson High School for Science and Technology
+*
+* Instructor: Mrs. Cross
+*
+* Contributors: Brian Clark
+*		Elise Favia
+*		Anudeep Mangu
+*
+* Concept: You begin the game as a small bird. You can eat any
+* prey smaller than you. As you eat more creatures the larger
+* you will grow, but be careful! Every minute, a massive dragon
+* will enter the screen and actively chase you for ten seconds.
+* The goal of the game is to grow large enough to finally 
+* eat the dragon!
+*
+* Features: 
+*	-Random enemy generation
+*	-Flapping animations
+*	-Cursor tracking movement
+*	-Game controls: pause, instructions, quit
+*	-High score tracking
+*
+* Instructions: Compile and run FinalDriver.java
+*
+*****************************************************************
