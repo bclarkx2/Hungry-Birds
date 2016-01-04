@@ -1,0 +1,14 @@
+import javax.swing.JFrame;
+public class FinalDriver
+{
+   public static void main(String[] args) throws Exception
+   {
+      JFrame frame = new JFrame("Hungry Birds");
+      frame.setSize(1360, 725);
+      frame.setLocation(0, 0);
+      frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+      frame.setContentPane(new FinalPanel());
+      frame.setVisible(true);
+      frame.setResizable(false);
+   }
+}
